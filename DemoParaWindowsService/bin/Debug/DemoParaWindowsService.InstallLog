@@ -1,0 +1,60 @@
+﻿Installing assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Rolling back assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Installing assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Restoring event log to previous state for source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   param1 = test
+   logfile = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.InstallLog
+   assemblypath = C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe

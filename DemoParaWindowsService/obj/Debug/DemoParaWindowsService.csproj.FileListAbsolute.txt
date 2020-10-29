@@ -1,0 +1,9 @@
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe.config
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.exe
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\bin\Debug\DemoParaWindowsService.pdb
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.csprojAssemblyReference.cache
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.ProjectInstaller.resources
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.csproj.GenerateResource.cache
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.csproj.CoreCompileInputs.cache
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.exe
+C:\Workspace\Sandeep\DemoParaWindowsService\DemoParaWindowsService\obj\Debug\DemoParaWindowsService.pdb
